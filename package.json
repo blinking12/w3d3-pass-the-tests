@@ -1,0 +1,23 @@
+{
+  "name": "w3d3-pass-the-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datatypes.js",
+  "dependencies": {
+    "moment": "^2.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinking12/w3d3-pass-the-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blinking12/w3d3-pass-the-tests/issues"
+  },
+  "homepage": "https://github.com/blinking12/w3d3-pass-the-tests#readme"
+}
